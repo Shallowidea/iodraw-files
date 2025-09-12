@@ -9,16 +9,16 @@
             <mxPoint x="100" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;准备阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#007FFF;fontColor=#FFFFFF;labelBorderColor=none;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;准备阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#007FFF;fontColor=#FFFFFF;labelBorderColor=none;textShadow=0;fillColor=#007FFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;核心操作阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#007FFF;fontColor=#FFFFFF;labelBorderColor=none;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;核心操作阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#007FFF;fontColor=#FFFFFF;labelBorderColor=none;textShadow=0;fillColor=#007FFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="190" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d5EypePAEqSJ9goSeaI5-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;初核阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#007FFF;fontColor=#FFFFFF;labelBorderColor=none;textShadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="d5EypePAEqSJ9goSeaI5-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;初核阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#007FFF;fontColor=#FFFFFF;labelBorderColor=none;textShadow=0;fillColor=#007FFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d5EypePAEqSJ9goSeaI5-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;总结归档阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#007FFF;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="d5EypePAEqSJ9goSeaI5-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;总结归档阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#007FFF;labelBorderColor=none;textShadow=0;fillColor=#007FFF;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d5EypePAEqSJ9goSeaI5-6" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
