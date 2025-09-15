@@ -74,8 +74,11 @@
         <mxCell id="5VkqLQ1WdT8kvvXG3p8f-6" value="&lt;ol style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;30分钟观察，&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;是否有严重不良反应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="300" width="200" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="5VkqLQ1WdT8kvvXG3p8f-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5VkqLQ1WdT8kvvXG3p8f-9" target="5VkqLQ1WdT8kvvXG3p8f-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5VkqLQ1WdT8kvvXG3p8f-9" value="医疗救治" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="320" width="60" height="80" as="geometry" />
+          <mxGeometry x="40" y="320" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
