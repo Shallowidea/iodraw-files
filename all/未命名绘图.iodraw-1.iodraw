@@ -37,7 +37,7 @@
           <mxGeometry x="360" y="180" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d5EypePAEqSJ9goSeaI5-11" value="&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;数据归档&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;撰写总结报告&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;horizontal=1;fontSize=12;spacingLeft=-24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="520" y="180" width="110" height="40" as="geometry" />
+          <mxGeometry x="505" y="180" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5VkqLQ1WdT8kvvXG3p8f-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -51,11 +51,11 @@
         </mxCell>
         <mxCell id="5VkqLQ1WdT8kvvXG3p8f-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="574.5" y="130" as="sourcePoint" />
-            <mxPoint x="574.5" y="180" as="targetPoint" />
+            <mxPoint x="560" y="130" as="sourcePoint" />
+            <mxPoint x="560" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="574.84" y="150" />
-              <mxPoint x="574.84" y="150" />
+              <mxPoint x="560.34" y="150" />
+              <mxPoint x="560.34" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
