@@ -77,8 +77,8 @@
         <mxCell id="5VkqLQ1WdT8kvvXG3p8f-9" value="医疗&lt;div&gt;救治&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;fontSize=14;align=center;direction=north;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="218" y="450" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5VkqLQ1WdT8kvvXG3p8f-14" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left; background-color: initial; font-size: 14px;&quot;&gt;30分钟观察，&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;是否有严重不良反应" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="161.5" y="320" width="183" height="90" as="geometry" />
+        <mxCell id="5VkqLQ1WdT8kvvXG3p8f-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;符合所有标准，且未主动退出&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="8.5" y="320" width="183" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
