@@ -14,16 +14,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;准备阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#006400;fontColor=#FFFFFF;labelBorderColor=none;textShadow=0;fillColor=#00CC00;strokeColor=none;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;准备阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#006400;fontColor=#FFFFFF;labelBorderColor=none;textShadow=0;fillColor=#006400;strokeColor=none;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="139.5" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;核心操作阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#00CC00;fontColor=#FFFFFF;labelBorderColor=none;textShadow=0;fillColor=#00CC00;strokeColor=none;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;核心操作阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#00CC00;fontColor=#FFFFFF;labelBorderColor=none;textShadow=0;fillColor=#006400;strokeColor=none;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="292.5" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d5EypePAEqSJ9goSeaI5-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;初核阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#00CC00;fontColor=#FFFFFF;labelBorderColor=none;textShadow=0;fillColor=#00CC00;strokeColor=none;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="d5EypePAEqSJ9goSeaI5-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;初核阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#00CC00;fontColor=#FFFFFF;labelBorderColor=none;textShadow=0;fillColor=#006400;strokeColor=none;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="446.5" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d5EypePAEqSJ9goSeaI5-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;总结归档阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#00CC00;labelBorderColor=none;textShadow=0;fillColor=#00CC00;strokeColor=none;fontColor=#FFFFFF;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="d5EypePAEqSJ9goSeaI5-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;总结归档阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#00CC00;labelBorderColor=none;textShadow=0;fillColor=#006400;strokeColor=none;fontColor=#FFFFFF;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="599.5" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d5EypePAEqSJ9goSeaI5-6" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
