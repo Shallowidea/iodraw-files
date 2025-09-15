@@ -98,7 +98,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5VkqLQ1WdT8kvvXG3p8f-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;退出&lt;/span&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5VkqLQ1WdT8kvvXG3p8f-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;不入组&lt;/span&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="450" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
