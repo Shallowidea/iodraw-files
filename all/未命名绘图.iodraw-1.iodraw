@@ -68,7 +68,7 @@
         <mxCell id="5VkqLQ1WdT8kvvXG3p8f-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5VkqLQ1WdT8kvvXG3p8f-6" target="d5EypePAEqSJ9goSeaI5-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5VkqLQ1WdT8kvvXG3p8f-6" value="&lt;ol style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;30分钟观察，无异常后出组&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;是否有严重不良反应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5VkqLQ1WdT8kvvXG3p8f-6" value="&lt;ol style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;30分钟观察&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;是否有严重不良反应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="300" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
